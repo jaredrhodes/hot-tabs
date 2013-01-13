@@ -1,0 +1,10 @@
+{
+  "name": "Hot Tabs",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Adds tab numbers to tabs for easy recognition when using shortcut keys.",
+  "browser_action": {
+  },
+  "background": { "scripts": ["background.js"] },
+   "permissions": [ "tabs", "http://*/*" ]
+}
