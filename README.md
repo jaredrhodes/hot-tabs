@@ -3,8 +3,8 @@ hot-tabs
 
 Google Chrome Extension that adds tab numbers to tab titles for easy use of keyboard shortcuts for tab switching.
 
-Example:   ``` __________ ```         ``` _____________```
-A tab like ```|example x \``` becomes ```|2) example x \``` so you can use keyboard shortcuts to quickly navigate many tabs.
+'Example:   ``` __________                 _____________``` '
+'A tab like ```|example x \``` becomes ```|2) example x \``` so you can use keyboard shortcuts to quickly navigate many tabs.'
 
 ###TODO:
 * Get tab numbers to appear in Gmail and like pages.
